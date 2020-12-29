@@ -14,5 +14,5 @@ I use [poetry](https://python-poetry.org) for easy package management. To use th
 1. Install poetry, using the documentation on their website.
 2. Clone this repo
 3. In the root of this repo, in your terminal, type: `poetry install` which will install Jupyter, matplotlib and other packages specified in the `pyproject.toml` file.
-4. Run `poetry shell` and start the Jupyter notebooks using `jupyter lab``
-5. This should cause a browser window to open, and from there, you can open any of the notebooks
+4. Run `poetry shell` and start the Jupyter notebooks using `jupyter lab`
+5. A browser window should open. From there, you can open any of the notebooks and run them
